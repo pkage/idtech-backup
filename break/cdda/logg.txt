@@ -1,0 +1,27 @@
+mod_ui initialized
+mod_ui initialized
+calling get_input() for Examine where?
+calling get_input() for Examine where?
+calling get_input() for Smash where?
+calling get_input() for Examine where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
+calling get_input() for Smash where?
